@@ -1,1 +1,2 @@
 # webhookspammerr
+run setup.bat
